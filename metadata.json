@@ -1,0 +1,6 @@
+{
+  "name": "AmicitiA Hotel Amsterdam",
+  "description": "Luxury hotel at Oosterdok 2, Amsterdam. Elegant accommodations, canal view suites, special packages, guest reviews, and direct WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
