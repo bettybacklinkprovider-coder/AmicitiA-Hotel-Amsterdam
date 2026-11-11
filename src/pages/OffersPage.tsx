@@ -31,7 +31,7 @@ export const OffersPage: React.FC<OffersPageProps> = ({ onOpenBooking }) => {
       <div className="bg-slate-900 text-white py-16 px-4 sm:px-6 lg:px-8 text-center relative overflow-hidden border-b border-amber-500/20">
         <div className="absolute inset-0 opacity-20">
           <img
-            src="/src/assets/images/offer_weekend_getaway_1794383925652.jpg"
+            src="/assets/images/offer_weekend_getaway_1794383925652.jpg"
             alt="AmicitiA Special Offers"
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"

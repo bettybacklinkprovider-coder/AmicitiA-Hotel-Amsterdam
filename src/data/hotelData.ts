@@ -104,7 +104,7 @@ export const HOTEL_ROOMS: Room[] = [
     sizeSqM: 38,
     bedType: "King Size Hypnos Bed",
     view: "Waterfront & Historic Canal",
-    image: "/src/assets/images/room_deluxe_canal_1794383924606.jpg",
+    image: "/assets/images/room_deluxe_canal_1794383924606.jpg",
     description: "Immerse yourself in Dutch heritage with floor-to-ceiling windows overlooking Amsterdam's historic Oosterdok canal. Features hand-crafted oak parquet, luxury Italian marble bathroom, rain shower, and complimentary artisan espresso bar.",
     amenities: [
       "Canal View", "Free High-Speed Wi-Fi", "King Size Bed", "Marble Bathroom & Rain Shower", 
@@ -123,7 +123,7 @@ export const HOTEL_ROOMS: Room[] = [
     sizeSqM: 52,
     bedType: "Super King Custom Mattress",
     view: "Panoramic Harbour & NEMO Skyline",
-    image: "/src/assets/images/room_executive_loft_1794383925513.jpg",
+    image: "/assets/images/room_executive_loft_1794383925513.jpg",
     description: "Our signature loft suite boasts double-height ceilings with original exposed timber beams and uninterrupted views of Amsterdam's maritime quarter. Includes separate lounge area, deep soaking freestanding tub, and dedicated executive work hub.",
     amenities: [
       "360 Waterfront Skyline View", "Freestanding Soaking Tub", "Executive Work Suite", "Complimentary Lounge Access",
@@ -142,7 +142,7 @@ export const HOTEL_ROOMS: Room[] = [
     sizeSqM: 42,
     bedType: "Plush Canopy King Bed",
     view: "Canal Sunset & City Lights",
-    image: "/src/assets/images/room_romantic_suite_1794383925842.jpg",
+    image: "/assets/images/room_romantic_suite_1794383925842.jpg",
     description: "Designed for romance and serene relaxation. Features a magnificent freestanding bathtub with panoramic water views, soft mood lighting, champagne on arrival, and plush velour seating.",
     amenities: [
       "Welcome Chilled Champagne", "Freestanding Oval Tub", "Mood Lighting System", "Fluffy Bathrobes & Slippers",
@@ -161,7 +161,7 @@ export const HOTEL_ROOMS: Room[] = [
     sizeSqM: 64,
     bedType: "1 King + 2 Twin Beds",
     view: "Oosterdok Promenade & Garden",
-    image: "/src/assets/images/about_amicitia_lounge_1794383907715.jpg",
+    image: "/assets/images/about_amicitia_lounge_1794383907715.jpg",
     description: "Generous interconnected living space tailored for families. Features two private bedrooms, dual luxury bathrooms, family gaming setup, child amenities, and direct access to the hotel waterfront garden terrace.",
     amenities: [
       "Accommodates up to 4 Guests", "2 Separate Bedrooms", "Dual Bathrooms", "Interconnected Layout",
@@ -180,7 +180,7 @@ export const HOTEL_ROOMS: Room[] = [
     sizeSqM: 28,
     bedType: "Queen Size Plush Bed",
     view: "Courtyard & Garden View",
-    image: "/src/assets/images/hero_amicitia_hotel_1794383906646.jpg",
+    image: "/assets/images/hero_amicitia_hotel_1794383906646.jpg",
     description: "A cozy, thoughtfully designed room featuring quiet courtyard views, custom Dutch oak furniture, walk-in rainfall shower, and high-speed workspace.",
     amenities: [
       "Quiet Courtyard View", "Queen Size Bed", "Walk-in Rain Shower", "Work Desk", 
@@ -201,7 +201,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     pricePerNight: 204,
     originalPrice: 240,
     minNights: 2,
-    image: "/src/assets/images/offer_weekend_getaway_1794383925652.jpg",
+    image: "/assets/images/offer_weekend_getaway_1794383925652.jpg",
     description: "Escape to Amsterdam for a memorable weekend. Enjoy 15% discount on all suites, complimentary daily artisan breakfast in bed or in our lounge, and guaranteed 13:00 late checkout.",
     inclusions: [
       "Daily Gourmet Breakfast Tray", "Guaranteed 13:00 Late Checkout", "Welcome Dutch Craft Beer or Wine", "15% Room Rate Discount"
@@ -218,7 +218,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     pricePerNight: 265,
     originalPrice: 320,
     minNights: 1,
-    image: "/src/assets/images/room_romantic_suite_1794383925842.jpg",
+    image: "/assets/images/room_romantic_suite_1794383925842.jpg",
     description: "Pamper your loved one with chilled champagne, rose petal turn-down service, candlelit bath setup, and a private 1-hour evening canal cruise ticket for two.",
     inclusions: [
       "Chilled Moët & Chandon Champagne", "Rose Petal Turn-down Service", "Private 1-Hour Canal Cruise Pass", "Breakfast in Bed Included"
@@ -235,7 +235,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     pricePerNight: 192,
     originalPrice: 240,
     minNights: 4,
-    image: "/src/assets/images/room_deluxe_canal_1794383924606.jpg",
+    image: "/assets/images/room_deluxe_canal_1794383924606.jpg",
     description: "Experience Amsterdam like a local. Extended stay guests receive 20% off room rates, complimentary laundry service, and unlimited VanMoof bicycle usage.",
     inclusions: [
       "20% Discount on 4+ Night Stays", "Complimentary VanMoof Bicycle Rental", "Weekly Express Laundry Service", "20% Off Hotel Lounge Dining"
@@ -252,7 +252,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     pricePerNight: 306,
     originalPrice: 360,
     minNights: 2,
-    image: "/src/assets/images/about_amicitia_lounge_1794383907715.jpg",
+    image: "/assets/images/about_amicitia_lounge_1794383907715.jpg",
     description: "Discover Amsterdam with your family. Includes tickets to the adjacent NEMO Science Museum, family bike rentals, and complimentary breakfast for kids under 12.",
     inclusions: [
       "NEMO Science Museum Tickets (4x)", "Kids Under 12 Eat Free", "Family Bicycle Hire Included", "Child Welcome Gift Basket"
@@ -269,7 +269,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     pricePerNight: 270,
     originalPrice: 320,
     minNights: 1,
-    image: "/src/assets/images/room_executive_loft_1794383925513.jpg",
+    image: "/assets/images/room_executive_loft_1794383925513.jpg",
     description: "Designed for business professionals seeking efficiency and comfort. Includes priority check-in, daily shirt pressing, executive desk setup, and silent lounge access.",
     inclusions: [
       "Priority Early Check-in / Express Checkout", "Daily Shirt Pressing Service", "High-Speed Wi-Fi 6 Dedicated Line", "Quiet Lounge Access & Espresso"
@@ -286,7 +286,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
     pricePerNight: 220,
     originalPrice: 260,
     minNights: 2,
-    image: "/src/assets/images/hero_amicitia_hotel_1794383906646.jpg",
+    image: "/assets/images/hero_amicitia_hotel_1794383906646.jpg",
     description: "Celebrate the charm of Amsterdam across seasons. Includes complimentary mulled wine/cocktail upon arrival, festival guide, and canal cruise tickets.",
     inclusions: [
       "Seasonal Welcome Cocktail", "Curated Amsterdam Event Pass", "Private Canal Sightseeing Tour", "Special Seasonal Gift"
@@ -303,7 +303,7 @@ export const HOTEL_FACILITIES: Facility[] = [
     category: "Waterfront & Transport",
     description: "Direct private boat mooring access right outside Oosterdok 2 for canal boat tours and water taxi pickups.",
     iconName: "Anchor",
-    image: "/src/assets/images/facility_canal_mooring_1794386051618.jpg"
+    image: "/assets/images/facility_canal_mooring_1794386051618.jpg"
   },
   {
     id: "bicycles",
@@ -311,7 +311,7 @@ export const HOTEL_FACILITIES: Facility[] = [
     category: "Mobility",
     description: "Complimentary handcrafted Gazelle & VanMoof urban bicycles equipped with GPS and locks for guest exploration.",
     iconName: "Bike",
-    image: "/src/assets/images/facility_bicycle_rental_1794386051256.jpg"
+    image: "/assets/images/facility_bicycle_rental_1794386051256.jpg"
   },
   {
     id: "dining-lounge",
@@ -319,7 +319,7 @@ export const HOTEL_FACILITIES: Facility[] = [
     category: "Dining & Drinks",
     description: "Artisan breakfast, organic Dutch cheeses, fine wines, and craft coffees served in our canal-view lounge.",
     iconName: "Coffee",
-    image: "/src/assets/images/facility_dining_lounge_1794386052268.jpg"
+    image: "/assets/images/facility_dining_lounge_1794386052268.jpg"
   },
   {
     id: "spa-sauna",
@@ -327,7 +327,7 @@ export const HOTEL_FACILITIES: Facility[] = [
     category: "Wellness",
     description: "Private wellness area featuring Finnish cedar sauna, rain showers, and organic massage treatments.",
     iconName: "Sparkles",
-    image: "/src/assets/images/facility_spa_sauna_1794386051434.jpg"
+    image: "/assets/images/facility_spa_sauna_1794386051434.jpg"
   },
   {
     id: "wifi",
@@ -335,7 +335,7 @@ export const HOTEL_FACILITIES: Facility[] = [
     category: "Technology",
     description: "Ultra-fast symmetrical gigabit wireless network throughout all rooms, public spaces, and garden patio.",
     iconName: "Wifi",
-    image: "/src/assets/images/facility_wifi_workspace_1794386052020.jpg"
+    image: "/assets/images/facility_wifi_workspace_1794386052020.jpg"
   },
   {
     id: "concierge",
@@ -343,7 +343,7 @@ export const HOTEL_FACILITIES: Facility[] = [
     category: "Service",
     description: "Dedicated local concierges for restaurant reservations, museum priority tickets, and custom itineraries.",
     iconName: "UserCheck",
-    image: "/src/assets/images/facility_concierge_service_1794386053591.jpg"
+    image: "/assets/images/facility_concierge_service_1794386053591.jpg"
   },
   {
     id: "climate-control",
@@ -351,7 +351,7 @@ export const HOTEL_FACILITIES: Facility[] = [
     category: "Comfort",
     description: "Whisper-quiet air conditioning, underfloor heating, and double-glazed soundproofed heritage windows.",
     iconName: "Thermometer",
-    image: "/src/assets/images/facility_climate_control_1794386053327.jpg"
+    image: "/assets/images/facility_climate_control_1794386053327.jpg"
   },
   {
     id: "valet-parking",
@@ -359,7 +359,7 @@ export const HOTEL_FACILITIES: Facility[] = [
     category: "Services",
     description: "Secure valet parking with fast electric vehicle charging stations adjacent to the hotel property.",
     iconName: "Car",
-    image: "/src/assets/images/facility_valet_parking_1794386053666.jpg"
+    image: "/assets/images/facility_valet_parking_1794386053666.jpg"
   }
 ];
 

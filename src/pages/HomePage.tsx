@@ -38,7 +38,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onOpenBooking }) => {
         {/* Large luxury hotel background image */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/hero_amicitia_hotel_1794383906646.jpg"
+            src="/assets/images/hero_amicitia_hotel_1794383906646.jpg"
             alt="AmicitiA Hotel Amsterdam exterior at Oosterdok canal"
             className="w-full h-full object-cover scale-105 filter brightness-[0.70] contrast-[1.05]"
             referrerPolicy="no-referrer"
@@ -167,7 +167,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onOpenBooking }) => {
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-amber-500/20">
               <img
-                src="/src/assets/images/about_amicitia_lounge_1794383907715.jpg"
+                src="/assets/images/about_amicitia_lounge_1794383907715.jpg"
                 alt="AmicitiA Hotel lounge interior"
                 className="w-full h-[440px] object-cover hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"

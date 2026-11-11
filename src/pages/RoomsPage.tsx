@@ -25,7 +25,7 @@ export const RoomsPage: React.FC<RoomsPageProps> = ({ onOpenBooking }) => {
       <div className="bg-slate-900 text-white py-16 px-4 sm:px-6 lg:px-8 text-center relative overflow-hidden border-b border-amber-500/20">
         <div className="absolute inset-0 opacity-20">
           <img
-            src="/src/assets/images/room_deluxe_canal_1794383924606.jpg"
+            src="/assets/images/room_deluxe_canal_1794383924606.jpg"
             alt="AmicitiA Hotel rooms header"
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
